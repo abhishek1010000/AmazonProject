@@ -1,0 +1,19 @@
+.clothe-page{
+    width: 22vw;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 85vh;
+    padding: 20px 0;
+}
+.clothe-page button{
+    padding: 10px 25px;
+    font-size: 18px;
+    background-color: rgb(247,202,0);
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}
+.clothe-page b{
+    font-size: 22px;
+}

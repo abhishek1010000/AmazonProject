@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+    justify-content: space-around;
+}
+.cc a{
+    color: black;
+    font-size: 18px;
+}
+.cc{
+    padding: 20px;
+    width: 30vw;
+}
+.cc img{
+    border-radius: 10px;
+}

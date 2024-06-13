@@ -1,0 +1,73 @@
+.bottom-header{
+    margin-top: 70px;
+}
+.side-content{
+    width: 25vw;
+    z-index: 50;
+    position: relative;
+    height: 50vh;
+    overflow: scroll;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(35,47,62);
+    color: white;
+    padding: 13px 0;
+    font-size: 16px;
+}
+li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.header-bar{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.X{
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+}
+.parent{
+    position: relative;
+}
+.hello-sign{
+    background-color: rgb(35,47,62);
+    display: flex;
+    /* justify-content: center; */
+    color: white;
+    gap: 10px;
+    font-size: 22px;
+    align-items: center;
+    padding: 10px 10px;
+}
+.side-extra{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    cursor: pointer;
+    padding: 20px 10px;
+}
+.hh p{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.hh{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.hh p:hover{
+    background-color: rgb(187, 191, 196);
+}

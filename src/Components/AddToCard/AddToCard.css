@@ -1,0 +1,16 @@
+.total h2{
+    color: black;
+}
+.total button{
+    padding: 10px 25px;
+    font-size: 18px;
+    background-color: rgb(255,216,20);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.checkout{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}

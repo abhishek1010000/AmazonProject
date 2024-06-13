@@ -1,0 +1,24 @@
+.sign{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    padding: 30px 0;
+    gap: 5px;
+}
+.sign a{
+    color: blue;
+}
+.sign span{
+    color: black;
+}
+.sign button {
+    width: 250px;
+    padding: 5px 25px;
+    font-size: 15px;
+    background-color: rgb(255,198,54);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
